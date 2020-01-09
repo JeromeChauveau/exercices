@@ -1,4 +1,4 @@
-package com.jch;
+package main.java.com.jch;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.jch.collections;
+package main.java.com.jch.collections;
 
 public class Product {
     private final String name;
