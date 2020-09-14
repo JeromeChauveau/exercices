@@ -1,4 +1,4 @@
-package main.java.com.jch.collections;
+package com.jch.collections;
 
 public class ProductLine {
 
